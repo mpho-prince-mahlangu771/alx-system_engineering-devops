@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cat /etc/passwd | grep -A 3 root
+=======
+cat /etc/passwd | grep -m 3 root
+>>>>>>> 5c96f1ea9ca6ad6228e901b7d35a47c120ca384e
