@@ -1,2 +1,0 @@
-#!/bin/bash
-cat /etc/passwd | grep -m 3 root
